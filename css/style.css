@@ -34,3 +34,35 @@ header section */
 .celeb{
     display: block;
 }
+
+.section-1{
+  text-align: center;
+}
+
+.off{
+  color: #F00;
+margin: 0px 0px 20px 0px;
+font-size: 88px;
+font-weight: 700;
+
+}
+
+.new{
+  color: #F00;
+margin-bottom: 10px;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.new-1{
+  color: #070211;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+
+.section-1 img{
+  width: 800px;
+  height: 500px;
+}
