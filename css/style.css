@@ -14,7 +14,7 @@ header section */
   background-repeat: no-repeat;
   width: 1320px;
   height: 600px;
-  margin: 50px 140px;
+  margin: 50px auto;
 }
 .happy-new {
   text-align: center;
@@ -70,10 +70,11 @@ margin-bottom: 20px;
 .sec-1{
   background-image: url('../resources/Vectorrr.png');
   background-repeat: no-repeat;
-  width: 1350px;
+  width: 1300px;
   height: 600px;
   text-align: left;
-  margin:80px auto;
+  margin: 50px auto;
+  border-radius: 16px;
 }
 
 .sec-con-1{
@@ -105,4 +106,48 @@ margin-bottom: 50px;
   color: #FFF;
   font-size: 20px;
   text-transform: uppercase;
+ }
+
+ .sec-2{
+  width: 1300px;
+  height: 500px;
+  padding-top: 100px;
+  margin: 20px auto;
+  border-radius: 4px;
+  background-color: #edc0c0;
+ }
+
+ .sec-con-2{
+  text-align: center;
+  color: #070211;
+  margin-top: 24px;
+  margin-bottom: 24px;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+ }
+
+ .sec-con-2 span{
+  color: #F00;
+font-weight: 600;
+
+ }
+
+ .sec-con-2 {
+  margin-top: 30px;
+ }
+
+ .anchor-2{
+  display: inline-block;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #F00;
+  width: auto;
+  padding: 2px 32px;
+  font-size: 24px;
+  margin-top: 30px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  
  }
