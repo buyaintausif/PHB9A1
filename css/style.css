@@ -314,7 +314,7 @@ margin-bottom: 10px;
   width: 900px;
   height: 300px;
   padding: 150px 200px;
-  margin: 60px  auto 0px;
+  margin: 60px  auto 10px;
   text-align: center;
  }
 
@@ -362,4 +362,49 @@ background: #FFF;
   border-top-right-radius: 40px;
   border-bottom-right-radius: 40px;
   border: none;
+ }
+
+
+ /* footer Styles */
+
+ .last{
+  width: 1300px;
+  height: 480px;
+  margin: 24px auto 0px;
+  background: #070211;
+  font-size: 24px;
+ }
+
+ .add{
+  display: flex;
+  gap: 126px;
+  color: #FFF;
+  padding: 26px;
+  
+ }  
+
+ .last p{
+  padding: 24px;
+  margin-left: 150px;
+ }
+
+ .social{
+  padding: 36px;
+  text-align: center;
+ }
+
+ .social img{
+  margin: 5px;
+ }
+
+ .lastt{
+  display: flex;
+  gap: 420px;
+  padding: 16px;
+  
+ }
+
+ hr{
+  color: rgba(255, 255, 255, 0.15);;
+  margin: 0px 200px;
  }
