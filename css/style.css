@@ -218,7 +218,7 @@ margin-bottom: 10px;
 
  .sec-4{
   width: 1300px;
-  height: 550px;
+  height: 950px;
   text-align: center;
   margin: 20px auto;
  }
@@ -260,4 +260,51 @@ left:461px;
   top: 400px;
   left: 650px;
   z-index: 2;
+ }
+
+ 
+ .sec-5{
+  width: 1300px;
+  height: 600px;
+  margin: 60px  auto 0px;
+  padding: 2px;
+
+}
+
+  
+ .sec-5-h-3{
+  color: #F00;
+font-size: 24px;
+font-weight: 900;
+margin: 24px 0px;
+
+ }
+
+ .sec-5 p{
+  color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+line-height: 32px;
+margin-bottom: 20px;
+ }
+
+ .sec-5-h-2{
+ 
+  color: #070211;
+font-size: 48px;
+font-weight: 700;
+margin-top: 40px;
+margin-bottom: 10px;
+
+ }
+
+ .flex-1{
+  display: flex;
+  gap: 10px;
+  margin-top: 30px;
+ }
+
+ .flex-2{
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
  }
